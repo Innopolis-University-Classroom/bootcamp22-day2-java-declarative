@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d805adfa-e483-4b80-bb15-6c53adcb4b6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/ComposableListSolutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/ObservableSolutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/Bookmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/BookmarkRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/BoxArt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/BoxArtRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/ComposableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/InterestingMoment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/MovieList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/MovieListRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/Movies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava/types/VideoRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java/ru/innopolis/bootcamp22/day2/streams/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java/ru/innopolis/bootcamp22/day2/streams/tasks/OrderStatsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BqdNu0xJKSTLTMsAprm2ROKRF4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sirojiddinkomolov/Documents/innopolis/bootcamp22/programming/day2/lab-tasks/src/ru/innopolis/bootcamp22/day2/rxjava",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.47241378"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ru/innopolis/bootcamp22/day2/rxjava" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests/java/streams" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderStatsTest.task1Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.innopolis.bootcamp22.day2.streams.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.innopolis.bootcamp22.day2.streams.tasks" />
+      <option name="MAIN_CLASS_NAME" value="ru.innopolis.bootcamp22.day2.streams.tasks.OrderStatsTest" />
+      <option name="METHOD_NAME" value="task1Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderStatsTest.task1Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d805adfa-e483-4b80-bb15-6c53adcb4b6c" name="Changes" comment="" />
+      <created>1657637513719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657637513719</updated>
+      <workItem from="1657637515153" duration="2849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
